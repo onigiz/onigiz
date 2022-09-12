@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">3rd grade student at Istanbul Technical University(Department of Electrical Engineering). 
  
- Interested in web frontend and backend web technologies.</h3>
+ Interested in frontend and backend web technologies.</h3>
 
  &nbsp; <p align="center"> 🔭 I’m currently working on full stack web
 development</p> <p align="center">🌱 I’m currently learning Javascript and some
