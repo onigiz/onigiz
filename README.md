@@ -39,6 +39,7 @@ onurnigiz@hotmail.com</p>
 <img src="icons/jupyter.svg" alt="drawing" width="32"/> &nbsp;
 <img src="icons/visualstudiocode.svg" alt="drawing" width="32"/> &nbsp;
 <img src="icons/git.svg" alt="drawing" width="32"/>
+<img src="icons/markdown.svg" alt="drawing" width="32"/>
  </p> 
  
 
