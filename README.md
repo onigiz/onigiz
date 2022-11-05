@@ -40,7 +40,7 @@ onurnigiz@hotmail.com</p>
 <img src="icons/visualstudiocode.svg" alt="drawing" width="32"/> &nbsp;
 <img src="icons/git.svg" alt="drawing" width="32"/>
 <img src="icons/markdown.svg" alt="drawing" width="32"/> &nbsp;
-<img src="icons/.svg" alt="drawing" width="32"/> &nbsp; 
+<img src="icons/c.svg" alt="drawing" width="32"/> &nbsp; 
  
  </p> 
  
