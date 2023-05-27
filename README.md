@@ -5,7 +5,7 @@
  Student at Ecole 42 Istanbul </h3>
 
  &nbsp; <p align="center"> 🔭 I’m currently working on software development.</p> <p align="center">🌱 I’m currently learning algorithms and C language's deep details.</p>  <p align="center"> 📫 How to reach me:
-onurnigiz@hotmail.com</p>
+</p><p align="center">Mail: onurnigiz@hotmail.com</p><p align="center">LinkedIn: https://www.linkedin.com/in/onur-nigiz/</p>
 
 \
 &nbsp;
