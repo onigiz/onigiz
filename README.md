@@ -1,7 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://github.com/onigiz/onigiz.png" alt="onigiz" width="200" height="200">
-</p>
 
 <h1 align="center">Hello, I'm Onur Nigiz! 👋</h1>
 
