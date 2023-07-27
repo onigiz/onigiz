@@ -1,4 +1,4 @@
-
+<!-- Header -->
 <h1 align="center">Hello, I'm Onur Nigiz! 👋</h1>
 
 <p align="center">
@@ -24,12 +24,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-<!-- GitHub Statistics -->
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onigiz&show_icons=true&count_private=true&theme=cobalt" alt="GitHub Statistics">
-</p>
+<!-- GitHub Statistics and Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onigiz&show_icons=true&count_private=true&theme=cobalt" alt="GitHub Statistics" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onigiz&langs_count=5&layout=compact&theme=cobalt" alt="Most Used Languages" height="195">
+</div>
 
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
