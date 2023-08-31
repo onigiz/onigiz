@@ -44,7 +44,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=Power-Electronic-Circuit-Analyzer&theme=cobalt" alt="Power-Electronic-Circuit-Analyzer">
   </a>
   <a href="link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=42-get_next_line&theme=cobalt" alt="42-get_next_line">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=42-push_swap&theme=cobalt" alt="42-push_swap">
   </a>
 </p>
 
