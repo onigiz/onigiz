@@ -41,10 +41,10 @@
 <!-- GitHub Repository Cards -->
 <p align="center">
   <a href="link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=Power-Electronic-Circuit-Analyzer&theme=cobalt" alt="Power-Electronic-Circuit-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=Power-Electronic-Circuit-Analyzer&theme=cobalt" alt="Power-Electronic-Circuit-Analyzer" width="400">
   </a>
   <a href="link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=42-push_swap&theme=cobalt" alt="42-push_swap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onigiz&repo=42-push_swap&theme=cobalt" alt="42-push_swap" height="140">
   </a>
 </p>
 
