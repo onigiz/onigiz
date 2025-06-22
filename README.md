@@ -98,7 +98,18 @@
 <h2 align="center">⚡ Recent Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onigiz&theme=cobalt&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" />
+  <!-- WakaTime Weekly Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onigiz&theme=cobalt&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6&custom_title=Weekly%20Coding%20Stats" alt="WakaTime Weekly Stats" width="49%">
+  
+  <!-- WakaTime Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onigiz&theme=cobalt&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="WakaTime Language Stats" width="49%">
+</div>
+
+<!-- WakaTime Badge -->
+<div align="center">
+  <a href="https://wakatime.com/@onigiz">
+    <img src="https://wakatime.com/badge/user/onigiz.svg" alt="WakaTime Profile" />
+  </a>
 </div>
 
 <!-- GitHub Trophies -->
