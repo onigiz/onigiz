@@ -11,11 +11,11 @@
 <div align="center">
   <h3>🎓 About Me</h3>
   <p>
-    I'm an <strong>Electrical Engineering</strong> student at <strong>Istanbul Technical University</strong> and a passionate software developer studying at <strong>Ecole 42 Istanbul</strong>. 
+    I'm an <strong>Electrical Engineering</strong> student at <strong>Istanbul Technical University</strong> and a part-time working Student at <strong>SIEMENS</strong>. 
     My interests span across embedded systems, data analysis, and cutting-edge technological innovations.
   </p>
   <p>
-    🔬 Currently exploring: <strong>Embedded Systems</strong> • <strong>Data Analysis</strong> • <strong>Power Electronics</strong> • <strong>Algorithm Development</strong>
+    🔬 Currently exploring: <strong>Full-Stack Development</strong> • <strong>Data Analysis</strong> • <strong>AI Technologies</strong> • <strong>Database Management</strong>
   </p>
 </div>
 
